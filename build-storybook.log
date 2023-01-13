@@ -1,8 +1,8 @@
 info @storybook/react v6.5.7
 info 
-info => Cleaning outputDir: /var/folders/w4/kj2mvb7n5tgbtmqwmtsb6h9r0000gp/T/chromatic--1270-JRe1j6S6GmuZ
+info => Cleaning outputDir: /var/folders/w4/kj2mvb7n5tgbtmqwmtsb6h9r0000gp/T/chromatic--1388-NwyGsWYkgUxP
 info => Loading presets
-info => Copying static files: /Users/np_202212_07/test-chromatic/public at /var/folders/w4/kj2mvb7n5tgbtmqwmtsb6h9r0000gp/T/chromatic--1270-JRe1j6S6GmuZ/
+info => Copying static files: /Users/np_202212_07/test-chromatic/public at /var/folders/w4/kj2mvb7n5tgbtmqwmtsb6h9r0000gp/T/chromatic--1388-NwyGsWYkgUxP/
 info => Compiling manager..
 info => Compiling preview..
 info Addon-docs: using MDX1
@@ -135,30 +135,30 @@ Browserslist: caniuse-lite is outdated. Please run:
 <s> [webpack.Progress] 10% building import loader ./node_modules/@storybook/mdx1-csf/loader.js
 <s> [webpack.Progress] 10% building 0/14 entries 30/58 dependencies 0/27 modules
 <s> [webpack.Progress] 10% building import loader ./node_modules/@storybook/source-loader/dist/cjs/index.js
-<s> [webpack.Progress] 10% building 0/14 entries 35/59 dependencies 0/32 modules
-<s> [webpack.Progress] 13% building 1/14 entries 306/430 dependencies 10/167 modules
-<s> [webpack.Progress] 13% building import loader ./node_modules/@svgr/webpack/lib/index.js
-<s> [webpack.Progress] 13% building import loader ./node_modules/file-loader/dist/cjs.js
-<s> [webpack.Progress] 13% building 1/14 entries 339/430 dependencies 10/174 modules
+<s> [webpack.Progress] 10% building 0/14 entries 33/58 dependencies 0/30 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/@svgr/webpack/lib/index.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/file-loader/dist/cjs.js
+<s> [webpack.Progress] 10% building 0/14 entries 148/191 dependencies 5/102 modules
+<s> [webpack.Progress] 13% building 1/14 entries 175/404 dependencies 9/103 modules
 <s> [webpack.Progress] 13% building import loader ./node_modules/mini-css-extract-plugin/dist/loader.js
 <s> [webpack.Progress] 13% building import loader ./node_modules/react-scripts/node_modules/css-loader/dist/cjs.js
 <s> [webpack.Progress] 13% building import loader ./node_modules/postcss-loader/dist/cjs.js
-<s> [webpack.Progress] 13% building 1/14 entries 777/808 dependencies 29/306 modules
-<s> [webpack.Progress] 13% building 1/14 entries 1700/1863 dependencies 180/416 modules
-<s> [webpack.Progress] 13% building 1/14 entries 2099/2200 dependencies 273/478 modules
-<s> [webpack.Progress] 14% building 1/14 entries 2932/3000 dependencies 393/628 modules
-<s> [webpack.Progress] 19% building 1/14 entries 4300/4346 dependencies 828/978 modules
-<s> [webpack.Progress] 20% building 2/14 entries 4530/4567 dependencies 910/1030 modules
-<s> [webpack.Progress] 21% building 3/14 entries 4530/4567 dependencies 910/1030 modules
-<s> [webpack.Progress] 25% building 4/14 entries 4530/4567 dependencies 910/1030 modules
-<s> [webpack.Progress] 29% building 5/14 entries 4530/4567 dependencies 910/1030 modules
-<s> [webpack.Progress] 33% building 6/14 entries 4530/4567 dependencies 910/1030 modules
-<s> [webpack.Progress] 37% building 7/14 entries 4530/4567 dependencies 910/1030 modules
-<s> [webpack.Progress] 41% building 8/14 entries 4530/4567 dependencies 910/1030 modules
-<s> [webpack.Progress] 45% building 9/14 entries 4530/4567 dependencies 910/1030 modules
-<s> [webpack.Progress] 49% building 10/14 entries 4587/4614 dependencies 936/1038 modules
-<s> [webpack.Progress] 53% building 11/14 entries 4881/4891 dependencies 1076/1109 modules
-<s> [webpack.Progress] 57% building 12/14 entries 4898/4899 dependencies 1102/1117 modules
+<s> [webpack.Progress] 13% building 1/14 entries 791/817 dependencies 29/311 modules
+<s> [webpack.Progress] 13% building 1/14 entries 1578/1700 dependencies 160/422 modules
+<s> [webpack.Progress] 13% building 1/14 entries 2165/2200 dependencies 277/488 modules
+<s> [webpack.Progress] 14% building 1/14 entries 2970/3100 dependencies 393/635 modules
+<s> [webpack.Progress] 19% building 1/14 entries 4362/4400 dependencies 840/1011 modules
+<s> [webpack.Progress] 20% building 2/14 entries 4586/4615 dependencies 911/1037 modules
+<s> [webpack.Progress] 21% building 3/14 entries 4586/4615 dependencies 912/1037 modules
+<s> [webpack.Progress] 25% building 4/14 entries 4586/4615 dependencies 913/1037 modules
+<s> [webpack.Progress] 29% building 5/14 entries 4586/4615 dependencies 914/1037 modules
+<s> [webpack.Progress] 33% building 6/14 entries 4586/4615 dependencies 915/1037 modules
+<s> [webpack.Progress] 37% building 7/14 entries 4586/4615 dependencies 916/1037 modules
+<s> [webpack.Progress] 41% building 8/14 entries 4586/4615 dependencies 917/1037 modules
+<s> [webpack.Progress] 45% building 9/14 entries 4586/4615 dependencies 918/1037 modules
+<s> [webpack.Progress] 49% building 10/14 entries 4700/4724 dependencies 983/1056 modules
+<s> [webpack.Progress] 53% building 11/14 entries 4887/4891 dependencies 1076/1113 modules
+<s> [webpack.Progress] 57% building 12/14 entries 4899/4899 dependencies 1102/1118 modules
 <s> [webpack.Progress] 61% building 13/14 entries 4899/4899 dependencies 1118/1118 modules
 <s> [webpack.Progress] 65% building 14/14 entries 4899/4899 dependencies 1118/1118 modules
 <s> [webpack.Progress] 65% building
@@ -261,7 +261,7 @@ Browserslist: caniuse-lite is outdated. Please run:
 <s> [webpack.Progress] 92% sealing asset processing ESLintWebpackPlugin_1
 <s> [webpack.Progress] 92% sealing asset processing PersistentChildCompilerSingletonPlugin
 <s> [webpack.Progress] 92% sealing asset processing TerserPlugin
-info => Manager built (12 s)
+info => Manager built (11 s)
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/main.76bda726.css generate SourceMap
@@ -366,4 +366,4 @@ WARN
 <s> [webpack.Progress] 99% cache shutdown
 <s> [webpack.Progress] 100% 
 
-info => Output directory: /var/folders/w4/kj2mvb7n5tgbtmqwmtsb6h9r0000gp/T/chromatic--1270-JRe1j6S6GmuZ
+info => Output directory: /var/folders/w4/kj2mvb7n5tgbtmqwmtsb6h9r0000gp/T/chromatic--1388-NwyGsWYkgUxP
